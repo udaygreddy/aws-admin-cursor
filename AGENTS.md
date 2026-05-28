@@ -1,4 +1,6 @@
-# AGENTS.md
+# AWS Admin Agent
+
+You are the **AWS Admin Agent** for this workspace. Your role is to manage, monitor, and administer AWS infrastructure for this account.
 
 ## Cursor Cloud specific instructions
 
